@@ -290,7 +290,7 @@ function closeDrawer() {
 
 // ─── COMPARTILHAR ──────────────────────────────────────────────────────────
 function siteUrl() {
-  return location.protocol.startsWith('http') ? location.origin + location.pathname : 'https://rotruska.github.io/ENCONTRE-SEU-EXERC-CIO/';
+  return location.protocol.startsWith('http') ? location.origin + location.pathname : 'https://rotruska.github.io/monte-seu-exercicio/';
 }
 
 function encodeWorkout(w) {

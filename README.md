@@ -1,7 +1,7 @@
 # Monte seu Exercício
 
 Guia de exercícios com vídeos e montador de treino.
-Site: https://rotruska.github.io/ENCONTRE-SEU-EXERC-CIO/
+Site: https://rotruska.github.io/monte-seu-exercicio/
 
 ## O que dá para fazer
 
